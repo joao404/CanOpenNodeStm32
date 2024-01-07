@@ -16,9 +16,13 @@
       }
     ],
     "license": "MIT",
-    "dependencies": {
-      "CANopenNode/CANopenNode "
-    },
+    "dependencies": 
+    [
+      {
+          "name": "CANopenNode",
+          "version": "https://github.com/CANopenNode/CANopenNode.git"
+      }
+  ],
     "frameworks": "*",
     "platforms": "*"
   }

@@ -1,0 +1,24 @@
+{
+    "name": "CanOpenNodeStm32",
+    "version": "0.1.0",
+    "description": "CanOpenNode adaption for Stm32",
+    "keywords": "canopen, CanOpenNode, Stm32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/joao404/CanOpenNodeStm32.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Marcel Maage",
+        "email": "marcel@maage.online"
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "CANopenNode/CANopenNode ": "~4.0"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }

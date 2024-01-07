@@ -26,7 +26,6 @@
  */
 #include "CO_app_STM32.h"
 #include "CANopen.h"
-#include "main.h"
 #include <stdio.h>
 
 #include "CO_storageBlank.h"

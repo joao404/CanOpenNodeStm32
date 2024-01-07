@@ -30,7 +30,6 @@
  * It is included from CO_driver.h, which contains documentation
  * for common definitions below. */
 
-#include "main.h"
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdint.h>

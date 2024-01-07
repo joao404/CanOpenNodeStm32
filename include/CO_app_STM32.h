@@ -9,7 +9,6 @@
 #define CANOPENSTM32_CO_APP_STM32_H_
 
 #include "CANopen.h"
-#include "main.h"
 
 /* CANHandle : Pass in the CAN Handle to this function and it wil be used for all CAN Communications. It can be FDCan or CAN
  * and CANOpenSTM32 Driver will take of care of handling that
